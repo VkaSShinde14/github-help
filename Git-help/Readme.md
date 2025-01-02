@@ -17,3 +17,10 @@ origin  https://github.com/VkaSShinde14/Python-for-devops (fetch)
 origin  https://github.com/VkaSShinde14/Python-for-devops (push)
 
 
+push an existing repository from the command line
+git remote add origin https://github.com/VkaSShinde14/github-help.git
+git branch -M main
+git push -u origin main
+
+
+
