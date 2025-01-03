@@ -2,7 +2,7 @@
 
 #config --global user.name "VkaSShinde14"
 
-#git config --global user.email "vkasshinde143@gmail.com"
+#git config --global user.email "vkasshinde@gmail.com"
 
 ** Verify Configuration:
 #git config --global --list
